@@ -1,0 +1,16 @@
+MotorControl.c:13:6:MotorFL_Forward	8	static
+MotorControl.c:18:6:MotorFL_Reverse	8	static
+MotorControl.c:23:6:MotorFL_Stop	8	static
+MotorControl.c:28:6:MotorFR_Forward	8	static
+MotorControl.c:33:6:MotorFR_Reverse	8	static
+MotorControl.c:38:6:MotorFR_Stop	8	static
+MotorControl.c:43:6:MotorBL_Forward	8	static
+MotorControl.c:48:6:MotorBL_Reverse	8	static
+MotorControl.c:53:6:MotorBL_Stop	8	static
+MotorControl.c:58:6:MotorBR_Forward	8	static
+MotorControl.c:63:6:MotorBR_Reverse	8	static
+MotorControl.c:68:6:MotorBR_Stop	8	static
+MotorControl.c:73:6:MotorFL_Input	16	static
+MotorControl.c:90:6:MotorFR_Input	16	static
+MotorControl.c:107:6:MotorBL_Input	16	static
+MotorControl.c:124:6:MotorBR_Input	16	static

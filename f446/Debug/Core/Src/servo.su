@@ -1,0 +1,4 @@
+servo.c:3:6:adjust_servo_position_z	24	static
+servo.c:28:6:adjust_servo_position_x	24	static
+servo.c:52:6:manual_adjust_servo_position_x	16	static
+servo.c:69:6:manual_adjust_servo_position_z	16	static

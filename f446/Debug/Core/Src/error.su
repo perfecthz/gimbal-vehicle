@@ -1,0 +1,2 @@
+error.c:12:10:wait_for_gpio_state_timeout	32	static,ignoring_inline_asm
+error.c:35:6:I2C_ClearBusyFlagErratum	40	static,ignoring_inline_asm
